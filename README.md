@@ -1,7 +1,7 @@
 # grab-tm
 Submission for aiforsea challenge: Traffic Management
 
-Prerequisites: python 2.7, scikit-learn, geohash, pandas
+Prerequisites: python 2.7, scikit-learn, geohash (`pip install python-geohash`), pandas, numpy
 
 Usage: `python predict_demand.py [filename in csv format]`
 
